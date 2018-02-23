@@ -1,0 +1,51 @@
+name: venv3
+channels:
+- defaults
+dependencies:
+- ca-certificates=2017.08.26=h1d4fec5_0
+- certifi=2018.1.18=py35_0
+- click=6.7=py35h353a69f_0
+- flask=0.12.2=py35h679e90e_0
+- intel-openmp=2018.0.0=hc7b2577_8
+- itsdangerous=0.24=py35h7c46880_1
+- jinja2=2.10=py35h480ab6d_0
+- libedit=3.1=heed3624_0
+- libffi=3.2.1=hd88cf55_4
+- libgcc-ng=7.2.0=h7cc24e2_2
+- libgfortran-ng=7.2.0=h9f7466a_2
+- libstdcxx-ng=7.2.0=h7a57d05_2
+- markupsafe=1.0=py35h4f4fcf6_1
+- mkl=2018.0.1=h19d6760_4
+- ncurses=6.0=h9df7e31_2
+- numpy=1.14.0=py35h3dfced4_1
+- openssl=1.0.2n=hb7f436b_0
+- pandas=0.22.0=py35hf484d3e_0
+- pip=9.0.1=py35h7e7da9d_4
+- python=3.5.4=h417fded_24
+- python-dateutil=2.6.1=py35h90d5b31_1
+- pytz=2018.3=py35_0
+- readline=7.0=ha6073c6_4
+- setuptools=38.4.0=py35_0
+- six=1.11.0=py35h423b573_1
+- sqlite=3.22.0=h1bed415_0
+- tk=8.6.7=hc745277_3
+- werkzeug=0.14.1=py35_0
+- wheel=0.30.0=py35hd3883cf_1
+- xz=5.2.3=h55aa19d_2
+- zlib=1.2.11=ha838bed_2
+- pip:
+  - arrow==0.12.1
+  - binaryornot==0.4.4
+  - chardet==3.0.4
+  - cookiecutter==1.6.0
+  - future==0.16.0
+  - idna==2.6
+  - jinja2-time==0.2.0
+  - poyo==0.4.1
+  - pyscaffold==3.0.1
+  - requests==2.18.4
+  - systeminfo (/home/alan/ucd/Software-Engineering/Scripts/systeminfo)==0.1
+  - urllib3==1.22
+  - whichcraft==0.4.1
+prefix: /home/alan/anaconda3/envs/venv3
+
